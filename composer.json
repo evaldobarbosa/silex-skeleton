@@ -13,5 +13,7 @@
         "twig/twig": "Twig, the flexible, fast, and secure template language for PHP.",
         "symfony/twig-bridge": "Symfony Twig Bridge.",
         "robmorgan/phinx": "Phinx makes it ridiculously easy to manage the database migrations for your PHP app."
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
